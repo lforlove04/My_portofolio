@@ -1,0 +1,15 @@
+.jumbotron {
+  padding-top: 4rem;
+  background-color: rgb(180, 241, 241);
+}
+.container p {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  line-widht: 0.5rem;
+}
+#Certificate {
+  background-color: rgb(180, 241, 241);
+}
+.footer {
+  background-color: rgb(101, 238, 238);
+}
